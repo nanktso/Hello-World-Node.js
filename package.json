@@ -1,0 +1,23 @@
+{
+  "name": "0.0.1",
+  "version": "0.0.1",
+  "description": "A simple node js hello world",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nanktso/Hello-World-Node.js.git"
+  },
+  "keywords": [
+    "hello",
+    "world"
+  ],
+  "author": "Nanktso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nanktso/Hello-World-Node.js/issues"
+  },
+  "homepage": "https://github.com/nanktso/Hello-World-Node.js#readme"
+}
